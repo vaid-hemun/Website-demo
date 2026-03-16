@@ -24,7 +24,7 @@ export default function Enquiry() {
   e.preventDefault();
 
   try {
-    const response = await fetch("https://website-demo-eliu.onrender.com", {
+    const response = await fetch("https://website-demo-eliu.onrender.com/contact", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
