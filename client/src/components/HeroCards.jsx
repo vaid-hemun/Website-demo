@@ -26,7 +26,7 @@ export default function SecondSection() {
 
             <div className="relative overflow-hidden">
               <img
-                src="public/hero2.jpg"
+                src="public/Hero2.jpg"
                 alt="High Performance Products"
                 className="w-full h-80 object-cover transition-transform duration-700 group-hover:scale-105"
               />
