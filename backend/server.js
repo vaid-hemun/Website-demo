@@ -58,7 +58,7 @@ console.log("Email response:", info.response);
     });
   }
 });
-mongoose.connect("mongodb+srv://hemu:hemu123@cluster0.3h7wjtl.mongodb.net/?appName=Cluster0")
+mongoose.connect(process.env.MONGO_URI)
   .then(() => console.log("MongoDB Connected ✅"))
   .catch((err) => console.log(err));
 app.listen(5000, () => {
