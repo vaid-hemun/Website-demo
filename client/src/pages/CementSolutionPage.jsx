@@ -13,7 +13,7 @@ export default function CementSolutionPage() {
       products: [
         {
           name: "Abrasion Resistant (AR) Conveyor Belts",
-          image: "/public/abrasion-belt.jpg",
+          image: "/abrasion-belt.jpg",
           link: "/products/conveyor-belts/abrasion-resistant",
         },
       ],

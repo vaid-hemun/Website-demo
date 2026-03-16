@@ -26,7 +26,7 @@ export default function SecondSection() {
 
             <div className="relative overflow-hidden">
               <img
-                src="public/Hero2.jpg"
+                src="/Hero2.jpg"
                 alt="High Performance Products"
                 className="w-full h-80 object-cover transition-transform duration-700 group-hover:scale-105"
               />
@@ -55,7 +55,7 @@ export default function SecondSection() {
 
             <div className="relative overflow-hidden">
               <img
-                src="public/Hero3.jpg"
+                src="/Hero3.jpg"
                 alt="Material Handling Solutions"
                 className="w-full h-80 object-cover transition-transform duration-700 group-hover:scale-105"
               />
@@ -84,7 +84,7 @@ export default function SecondSection() {
 
             <div className="relative overflow-hidden">
               <img
-                src="public/Hero4.jpg"
+                src="/Hero4.jpg"
                 alt="Manufacturing Infrastructure"
                 className="w-full h-80 object-cover transition-transform duration-700 group-hover:scale-105"
               />
