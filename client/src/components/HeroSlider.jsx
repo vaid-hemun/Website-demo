@@ -4,7 +4,7 @@ export default function HeroSlider() {
 
   <div className="absolute inset-0">
     <img
-      src="/public/hero1.jpg"
+      src="/public/Hero1.jpg"
       alt="Conveyor System"
       className="w-full h-full object-cover object-center"
     />
